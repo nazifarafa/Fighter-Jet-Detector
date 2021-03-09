@@ -6,4 +6,5 @@ The five types are
 - Panavia Tornado
 - Mikoyan-Gurevich MiG-25
 - Mikoyan MiG-29
+
 A seperate GUI was created in jupyter notebook using Ipywidgets and Appmode extension was used to turn it into a web application.
