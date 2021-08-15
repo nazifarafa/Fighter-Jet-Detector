@@ -8,5 +8,6 @@ The five types are
 - Mikoyan MiG-29
 
 A seperate GUI was created in jupyter notebook using Ipywidgets and Appmode extension was used to turn it into a web application.
-![screenshot](https://user-images.githubusercontent.com/48137284/129494821-5a34c5d1-c1b5-49df-a480-ffd81d0e8b97.png)
+![screenshot](https://user-images.githubusercontent.com/48137284/129494892-d313b733-5832-4f13-89ef-6cbcd0a48c17.png)
+
 
