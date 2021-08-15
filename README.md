@@ -8,4 +8,5 @@ The five types are
 - Mikoyan MiG-29
 
 A seperate GUI was created in jupyter notebook using Ipywidgets and Appmode extension was used to turn it into a web application.
-![alt text](https://github.com/[nazifarafa]/[Fighter-Jet-Detector]/blob/[main]/Screenshot (720).jpg?raw=true)
+![screenshot](https://user-images.githubusercontent.com/48137284/129494821-5a34c5d1-c1b5-49df-a480-ffd81d0e8b97.png)
+
